@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Yasmine Alani]]></title>
+        <description><![CDATA[Yasmine Alani]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 30 May 2016 08:08:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Yasmine Alani</p>]]></description>
+            <link>undefinedyasmine-alani/index.html</link>
+            <guid isPermaLink="false">e2d1fa3f-909e-41eb-84f4-d807c52d7ecc</guid>
+            <pubDate>Mon, 30 May 2016 08:08:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
